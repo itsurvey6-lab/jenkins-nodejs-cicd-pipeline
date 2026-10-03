@@ -7,7 +7,7 @@ pipeline {
 
             steps{
                 git branch: 'main',
-                    url: 'https://github.com/itsurvey6/jenkins-nodejs-cicd-pipeline.git'
+                    url: 'https://github.com/itsurvey6-lab/jenkins-nodejs-cicd-pipeline.git'
             }
         }
 
