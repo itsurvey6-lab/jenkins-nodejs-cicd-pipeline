@@ -6,7 +6,8 @@ pipeline {
         stage('git checkout') {
 
             steps{
-                git 'https://github.com/itsurvey6/jenkins-nodejs-cicd-pipeline.git'
+                git branch: 'main',
+                    url: 'https://github.com/itsurvey6/jenkins-nodejs-cicd-pipeline.git'
             }
         }
 
