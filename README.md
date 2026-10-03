@@ -48,7 +48,7 @@ Successfully implemented a Jenkins CI/CD pipeline that automatically builds and 
 
 ## Screenshots
 
-Add screenshots of:
+screenshots of:
 
 1. Jenkins Dashboard
 2. Successful Pipeline Run
